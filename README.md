@@ -16,6 +16,7 @@ Table of Contents
 ## The Creation
 All details and files are uploaded to: https://github.com/ablobos/password_generator
 ## The Sneak Peek
+Preview with exposed Developer Tool
 ![imgpassword_generator](https://user-images.githubusercontent.com/117130907/204402589-c49a4628-7c57-4795-85e4-7602fa35b01d.jpg)
 
 ## Sources

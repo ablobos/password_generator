@@ -22,8 +22,9 @@ Preview with exposed Developer Tool
 ## Sources
 1. Columbia Univerisity Zoom Recordings (JavaScript Week)
 2. https://youtu.be/PkZNo7MFNFg (freeCodeCamp.org by Beau Carnes)
-3. https://codepen.io/
-4. https://www.udemy.com/course/the-web-developer-bootcamp/
+3. https://youtu.be/v2jfGo7ztm8 (by Daniel Vega)
+4. https://codepen.io/
+5. https://www.udemy.com/course/the-web-developer-bootcamp/
 
 ## Features
 1. User is prompted to a series of questions to generate a password.

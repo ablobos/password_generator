@@ -7,8 +7,6 @@ Table of Contents
 1. The Creation
 
 2. Sneak Peek
-![imgpassword_generator](https://user-images.githubusercontent.com/117130907/204427942-581a59ff-cb20-4fe4-8306-0aedaf31e429.jpg)
-
 
 3. Sources
 
@@ -18,6 +16,8 @@ Table of Contents
 ## The Creation
 All details and files are uploaded to: https://github.com/ablobos/password_generator
 ## The Sneak Peek
+
+![imgpassword_generator](https://user-images.githubusercontent.com/117130907/204427991-ae846d5c-5487-4398-8a67-e094fa4ab014.jpg)
 
 
 ## Sources

@@ -17,6 +17,8 @@ Table of Contents
 All details and files are uploaded to: https://github.com/ablobos/password_generator
 ## The Sneak Peek
 
+![imgpassword_generator](https://user-images.githubusercontent.com/117130907/204427991-ae846d5c-5487-4398-8a67-e094fa4ab014.jpg)
+
 
 ## Sources
 1. Columbia Univerisity Zoom Recordings (JavaScript Week)

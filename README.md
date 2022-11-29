@@ -7,6 +7,8 @@ Table of Contents
 1. The Creation
 
 2. Sneak Peek
+![imgpassword_generator](https://user-images.githubusercontent.com/117130907/204427942-581a59ff-cb20-4fe4-8306-0aedaf31e429.jpg)
+
 
 3. Sources
 
